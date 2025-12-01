@@ -1,2 +1,2 @@
-# C-Hangman-Game
+# C++-Hangman-Game
 Data Structures and Algorithms Project
